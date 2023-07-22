@@ -1,0 +1,22 @@
+{
+    "name": "Berserker.Models",
+    "rootNamespace": "",
+    "references": [
+        "GUID:de0f48815a74eb04589fc377239ac7e3",
+        "GUID:ac611fa191c3e314481e84fb02eb1141",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:5c01796d064528144a599661eaab93a6",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

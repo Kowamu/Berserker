@@ -1,0 +1,17 @@
+{
+    "name": "Berserker.Views",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac611fa191c3e314481e84fb02eb1141",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

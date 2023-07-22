@@ -1,0 +1,19 @@
+{
+    "name": "Berserker.Presenters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f7ec2f23088f79644a99d588ebd9818f",
+        "GUID:360f8e044a143104fbb7096581a5c3a6",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
