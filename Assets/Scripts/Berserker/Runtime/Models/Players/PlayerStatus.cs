@@ -29,16 +29,6 @@ namespace Berserker.Models.Players
         /// </summary>
         IObservable<Vector3> IPlayerStatus.OnVelocityChangeAsObservable() => _velocity;
 
-        /// <summary>
-        /// 移動方向が変更されたことを通知する
-        /// </summary>
-        IObservable<Vector3> IPlayerStatus.OnForwardChangeAsObservable() => _forward;
-        
-        /// <summary>
-        /// 視線の向きが変更されたことを通知する
-        /// </summary>
-        IObservable<Vector3> IPlayerStatus.OnViewChangeAsObservable() => _viewDirection;
-
         private void OnDestroy()
         {
             _velocity.Dispose();
